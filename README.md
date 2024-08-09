@@ -1,4 +1,4 @@
-![data engineering](Resources/data_engineeringf.jpg)
+![data engineering](EmployeeSQL/data_engineeringf.jpg)
 
 # Background
 
