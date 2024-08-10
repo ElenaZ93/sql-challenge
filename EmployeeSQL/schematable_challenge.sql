@@ -1,5 +1,4 @@
 --1
-
 CREATE TABLE "departments" (
     "dept_no" VARCHAR(4) PRIMARY KEY NOT NULL,
     "dept_name" VARCHAR(30) NOT NULL
@@ -45,7 +44,6 @@ CREATE TABLE "salaries" (
 );
 
 --6
-
 CREATE TABLE "titles" (
     "title_id" VARCHAR(40) PRIMARY KEY NOT NULL,
     "title" VARCHAR NOT NULL
